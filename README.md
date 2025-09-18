@@ -59,7 +59,8 @@ The dashboard was built using the following tools and technologies:
 
 ## 📸 Dashboard Samples
 * OverAll View -- https://github.com/gracytriyar/HR-Analytics/blob/main/HR%20Overview.png 
-
+* Dynamic Switch to "Employee View" -- https://github.com/gracytriyar/HR-Analytics/blob/main/HR%20Emp.png
+* Dynamic Switch to "Hiring Funnel View" --
 ---
 
 ## 🚀 How to Run
