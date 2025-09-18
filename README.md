@@ -1,11 +1,26 @@
-# HR Analytics Project
+sa# HR Analytics Project
 
 ## 📌 Project Overview
 This project demonstrates **end-to-end HR Analytics** by integrating data between Python, MySQL, and Power BI.  
 The objective is to analyze HR data to understand **workforce composition, attendance & leave patterns, and the hiring funnel**, and to present actionable insights through dashboards.  
 
 ---
+## 📌 Business Problem
+The HR team of a mid-sized organization (~100 employees) is facing challenges in:
+- Tracking overall **employee headcount, active workforce, and distribution**
+- Understanding **employee tenure patterns** for retention insights
+- Monitoring **attendance trends** (absenteeism, sick leave, work-from-home)
+- Evaluating **hiring funnel performance** (stage-wise dropouts & conversions)
+- Measuring the **effectiveness of recruitment sources** (referrals, job portals, career fairs)
 
+## 🎯 Project Objectives
+This project was carried out to:
+- Provide **real-time workforce visibility** through interactive dashboards
+- Identify **attendance and absenteeism trends** across departments
+- Analyze **attrition risks & tenure distribution**
+- Optimize the **recruitment funnel** by highlighting bottlenecks and dropout reasons
+- Enable **data-driven HR decision-making** for workforce planning & hiring strategies
+  
 ## 🛠️ Tools & Technologies
 - **Python** → Imported raw data into MySQL, automated loading  
 - **MySQL** → Data profiling, querying, and transformation using SQL  
